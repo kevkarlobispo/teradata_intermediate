@@ -11,6 +11,6 @@ To start: (test_site branch)
 
 5. Paste code from https://palletsprojects.com/p/flask/
 
-6. Locate to directory, 'set FLASK_APP=flaskblog.py'
+6. Locate to directory, 'set FLASK_APP=flaskblog.py' and 'set FLASK_DEBUG=1'
 
 7. flask run
